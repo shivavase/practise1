@@ -1,12 +1,12 @@
-# name='shiva'
-#
-# print(name[2])
-#
-# values=[2,4,65,7]
-# values.extend([4,6,8,9])
-# print(values)
-#
-# print(min(values))
+name='shiva'
+
+print(name[2])
+
+values=[2,4,65,7]
+values.extend([4,6,8,9])
+print(values)
+
+print(min(values))
 # print(max(values))
 #
 # values.sort()
