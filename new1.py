@@ -4,3 +4,5 @@ name2 = "reshma"
 print(name2)
 name3 = 'sharvin'
 print(name3, name2,name)
+name4 ="shiva"
+print(name4)
